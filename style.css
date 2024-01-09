@@ -2,12 +2,16 @@ span {
     display: inline-block;
   }
 
+body {
+  text-align: center;
+}
+
   /* span {
     display: inline-block;
     background-color: lightblue;
     padding: 5px;
     border: 1px solid darkgray;
-  } */
+  } 
   /* 
   #one {
     background-color:lightblue;
